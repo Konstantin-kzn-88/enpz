@@ -9,7 +9,7 @@ from calc import calc_torch
 # работа с активной книгой
 wb = xw.books.active
 ws = wb.sheets['Сценарии']
-NUM_ROW = 140
+NUM_ROW = 300
 
 for i in range(1, NUM_ROW):
     # Идем пока не пустые строки
