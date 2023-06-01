@@ -102,7 +102,7 @@ class Fireball:
 
         for CZA in classified_zone_array:
             ind = d_term_array.index(get_nearest_value(d_term_array, CZA))
-            radius_CZA.append(radius_array[ind])
+            radius_CZA.append(int(radius_array[ind]))
         return radius_CZA
 
 
