@@ -9,7 +9,7 @@ from calc import calc_torch
 wb = xw.books.active
 ws = wb.sheets['Сценарии']
 NUM_ROW = 300
-ROW_START_PUMP = 57
+ROW_START_PUMP = 63
 ROW_START_TANK = 2
 
 
