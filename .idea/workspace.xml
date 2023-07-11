@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56ab154c-cb71-40f0-a991-9071bc2f8d65" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/main_UTNGP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Оборудование на расчет СГП УТНГП.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\python\enpz" />
       <recent name="C:\python\ENPZ_del" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -218,7 +217,7 @@
       <workItem from="1687760223130" duration="11000" />
       <workItem from="1687764265466" duration="1221000" />
       <workItem from="1687805410976" duration="1325000" />
-      <workItem from="1689055666177" duration="799000" />
+      <workItem from="1689055666177" duration="2067000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685544290513</created>
@@ -297,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687355550396</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="init">
+      <created>1689069617269</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1689069617269</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +328,7 @@
     <SUITE FILE_PATH="coverage/ENPZ_del$test.coverage" NAME="test Coverage Results" MODIFIED="1687359250580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ENPZ_del$calc_tvs_explosion.coverage" NAME="calc_tvs_explosion Coverage Results" MODIFIED="1686123924407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/calc" />
     <SUITE FILE_PATH="coverage/ENPZ_del$main_CHPH.coverage" NAME="main_CHPH Coverage Results" MODIFIED="1686124810713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/enpz$main_UTNGP.coverage" NAME="main_UTNGP Coverage Results" MODIFIED="1689067937488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ENPZ_del$main_CHPH1.coverage" NAME="main_CHPH1 Coverage Results" MODIFIED="1687177739839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ENPZ_del$main.coverage" NAME="main Coverage Results" MODIFIED="1685693069308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
