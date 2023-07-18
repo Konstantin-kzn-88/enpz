@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="56ab154c-cb71-40f0-a991-9071bc2f8d65" name="Changes" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Оборудование на расчет СГП УТНГП.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Оборудование на расчет СГП УТНГП.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/python/enpz",
+    "last_opened_file_path": "C:/python/painter_v1.1",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -217,7 +218,9 @@
       <workItem from="1687760223130" duration="11000" />
       <workItem from="1687764265466" duration="1221000" />
       <workItem from="1687805410976" duration="1325000" />
-      <workItem from="1689055666177" duration="2067000" />
+      <workItem from="1689055666177" duration="2923000" />
+      <workItem from="1689143882513" duration="614000" />
+      <workItem from="1689685584753" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1685544290513</created>
@@ -303,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689069617269</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init">
+      <created>1689086360679</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1689086360679</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
