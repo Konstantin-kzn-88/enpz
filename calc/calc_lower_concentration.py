@@ -35,7 +35,7 @@ class LCLP:
 
 if __name__ == '__main__':
     ev_class = LCLP()
-    mass = 200
+    mass = 60
     mol_mass = 100
     t_boiling = 63
     lower_concentration = 1.8
