@@ -156,7 +156,7 @@ class Explosion:
                                         energy_level)
 
         # Calculate classified_zone_array
-        classified_zone_array = [100, 83, 53, 28, 12, 5, 3]  # CZA
+        classified_zone_array = [100, 83, 53, 20, 12, 5, 3]  # CZA
         radius_CZA = []
         delta_p_array = res_list[1]
         radius_array = res_list[0]
@@ -175,12 +175,12 @@ class Explosion:
 if __name__ == '__main__':
     ev_class = Explosion()
     class_substance = 3
-    view_space = 4
-    mass = 19
+    view_space = 3
+    mass = 200
     heat_of_combustion = 46000
     sigma = 7
     energy_level = 2
 
-    print(ev_class.explosion_class_zone(class_substance, view_space,
+    print(ev_class.explosion_array(class_substance, view_space,
                                         mass, heat_of_combustion, sigma,
                                         energy_level))
